@@ -21,6 +21,10 @@ Tastam butonul adauga >
 
 ![image](https://github.com/user-attachments/assets/6aab128c-4905-4c6f-aa6b-858405774f25)
 
+Am adaugat citeva imagini si la tastarea carora vom fi redirectionati pe siteul upsc > prima imagine , repository github > a doua imagine si facebook-ul personal > a treia imagine :
+
+![image](https://github.com/user-attachments/assets/4970ea50-8287-4ec9-9f37-274bd17525f8)
+
 
 
 
